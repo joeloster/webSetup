@@ -1,16 +1,16 @@
-# React JS + Tailwind setup
+# Frontend
 
-A simple setup for your frontend logic.
+Simple starter for your frontend logic
 
 - react + JavaScript
 - vite for fast builds
-- tailwind
+- tailwind for styling
 - react-query and pre built hooks for internal api calls
 - pre built protected routes
 
-# Express + better-sqlite3 setup
+# Backend
 
-A simple setup for your backend logic.
+Simple starter for your backend logic
 
 - express server
 - better-sqlite3 database
@@ -21,8 +21,8 @@ A simple setup for your backend logic.
 
 Requires node and npm
 
-- mkdir your-project
-- cd your-project
+- mkdir <your-project>
+- cd <your-project>
 - git clone git@github.com:joeloster/webSetup.git .
 - rm -rf .git
 - rm -rf README.md
