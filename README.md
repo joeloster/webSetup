@@ -21,8 +21,8 @@ Simple starter for your backend logic
 
 Requires node and npm
 
-- mkdir <your-project>
-- cd <your-project>
+- mkdir your-project
+- cd your-project
 - git clone git@github.com:joeloster/webSetup.git .
 - rm -rf .git
 - rm -rf README.md
